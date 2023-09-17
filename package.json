@@ -1,0 +1,15 @@
+{
+  "name": "palet",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "extract-colors": "^4.0.2",
+    "get-pixels": "^3.3.3"
+  }
+}
